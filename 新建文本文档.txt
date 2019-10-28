@@ -1,2 +1,7 @@
+<<<<<<< .mine
 gggggggggggggggggggggggggggggg
 llllllllllllllllllllllllllllllllllllllllllll
+=======
+gggggggggggggggggggggggggggggg
+kkkkkkkkkkkkkkkkkkk
+>>>>>>> .theirs
